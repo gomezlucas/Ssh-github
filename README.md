@@ -17,4 +17,4 @@ encryption.
 
 In order to verify the authenticity of the message, in other words to check that It hasn´t been altered, the protocol uses another form of cryptography called Hashing.
 
-
+![Step 1](https://github.com/gomezlucas/Ssh-github/blob/main/images/1.png)
