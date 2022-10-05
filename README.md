@@ -56,7 +56,7 @@ ls -al ~/.ssh
 8) Click on **New SSH Key button**
 ![Step 3](https://github.com/gomezlucas/Ssh-github/blob/main/images/3.png)
 
-9) Complete the Title field and paste the public key copied in the 6th step. Accept.
+9) Complete the Title field and paste the public key copied in the 6th step. Add new Key.
 ![Step 4](https://github.com/gomezlucas/Ssh-github/blob/main/images/4.png)
 
 10) In Git bash, test the connection 
