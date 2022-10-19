@@ -64,3 +64,23 @@ ls -al ~/.ssh
   ssh-add ~/.ssh/id_rsa
 ```
 If it shows a message saying *The user has been authenticated*, the process was succesful. Now we can clone a Repo from any terminal in our computer
+
+# Extra info
+
+```bash
+  ~/ is shorthand for the current user's home folder.
+  ~  = Alt + 126 
+  @  = Alt + 64 
+```
+
+# Resources: 
+- https://stackoverflow.com/questions/52113738/starting-ssh-agent-on-windows-10-fails-unable-to-start-ssh-agent-service-erro
+- https://www.techtarget.com/searchsecurity/definition/Secure-Shell
+- https://7sabores.com/blog/usar-multiples-llaves-ssh-git
+- https://askubuntu.com/questions/85149/what-does-mean
+- https://github.com/antonykidis/Setup-ssh-for-github
+
+ 
+## :rotating_light:	Never share your private key! 
+
+
