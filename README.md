@@ -61,7 +61,7 @@ ls -al ~/.ssh
 
 10) In Git bash, test the connection 
 ```bash
-  ssh-add ~/.ssh/id_rsa
+   ssh -T git@github.com
 ```
 If it shows a message saying *The user has been authenticated*, the process was succesful. Now we can clone a Repo from any terminal in our computer
 
